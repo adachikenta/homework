@@ -9,6 +9,8 @@ https://github.com/ics-creative/170116_three_lesson
 sample2  
 https://liginc.co.jp/web/html-css/html/91988  
 https://github.com/n0bisuke/practice_threejs  
+sample3  
+https://html5experts.jp/yomotsu/5225/  
 1.2. Grimoire.js  
 sample1  
 http://qiita.com/kyasbal_1994/items/e43c89effa74eee6f3e2  
