@@ -65,3 +65,11 @@ tail
 リダイレクトとはリダイレクションを行うこと。  
 
 エディタ vi  
+
+どっと  
+http://dotinstall.com/lessons/basic_unix_v2  
+http://dotinstall.com/lessons/basic_shellscript  
+http://dotinstall.com/lessons/basic_regexp  
+http://dotinstall.com/lessons/basic_sed  
+
+
