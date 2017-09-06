@@ -1,4 +1,6 @@
 
+http://dotinstall.com/lessons/basic_regexp  
+
 ■メタ文字  
 
 大かっこ：任意の一文字：[abc]  
