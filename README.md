@@ -1,7 +1,5 @@
 # homework
-https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree<br>
-https://marketplace.visualstudio.com/items?itemName=chrmarti.regex<br>
-<br>
+
 1. webGL<br>
 MDN<br>
 https://developer.mozilla.org/ja/docs/Web/API/WebGL_API<br>
