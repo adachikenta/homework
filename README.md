@@ -1,4 +1,8 @@
 # homework
+https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+https://marketplace.visualstudio.com/items?itemName=chrmarti.regex
+
+
 1. webGL  
 MDN  
 https://developer.mozilla.org/ja/docs/Web/API/WebGL_API  
