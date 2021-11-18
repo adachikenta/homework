@@ -1,0 +1,19 @@
+    1  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+    2  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+    3  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+    4  sudo apt update
+    5  sudo apt install docker-ce
+    6  curl https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -o packages-microsoft-prod.deb
+    7  sudo dpkg -i packages-microsoft-prod.deb
+    8  sudo apt update
+    9  sudo apt install -y daemonize dbus dotnet-runtime-5.0 gawk libc6 libstdc++6 policykit-1 systemd systemd-container
+   10  sudo -s
+   
+   11  sudo apt install -y systemd-genie
+   12  genie -s
+   13  sudo systemctl
+   14  genie -s
+
+
+    1  sudo docker ps
+    2  sudo docker run hello-world
